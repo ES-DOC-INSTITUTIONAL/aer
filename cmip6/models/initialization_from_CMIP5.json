@@ -1,5 +1,15 @@
 {
-    "lblrtm": {
+    "lblrtm-12-8": {
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }, 
+    "rrtmg-lw-4-91": {
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }, 
+    "rrtmg-sw-4-02": {
         "toplevel": {
             "initializedFrom": ""
         }
