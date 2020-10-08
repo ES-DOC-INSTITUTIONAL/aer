@@ -1,17 +1,17 @@
 {
     "lblrtm-12-8": {
         "toplevel": {
-            "publish": "off"
+            "publish": "on"
         }
     }, 
     "rrtmg-lw-4-91": {
         "toplevel": {
-            "publish": "off"
+            "publish": "on"
         }
     }, 
     "rrtmg-sw-4-02": {
         "toplevel": {
-            "publish": "off"
+            "publish": "on"
         }
     }
 }
